@@ -33,8 +33,7 @@ out/
 Thumbs.db
 
 # Tailwind and PostCSS
-tailwind.config.js
-postcss.config.js
+
 
 # Environment variables
 .env
